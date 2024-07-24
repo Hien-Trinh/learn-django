@@ -1,0 +1,10 @@
+body {
+    background: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+li a {
+    color: green;
+}
